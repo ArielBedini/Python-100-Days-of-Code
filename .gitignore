@@ -1,0 +1,25 @@
+# Ignorar archivos generados automáticamente
+node_modules/
+dist/
+build/
+
+# Ignorar archivos de configuración de entornos específicos
+.env
+*.env
+
+# Ignorar archivos de registro y archivos temporales
+*.log
+*.tmp
+
+# Ignorar archivos de compilación
+*.o
+*.out
+
+# Ignorar archivos de dependencias o bibliotecas de desarrollo
+_deploy
+bower_components/
+
+# Curso 100 Days of Code del Agenla Yu
+*.yaml
+.idea
+.md
