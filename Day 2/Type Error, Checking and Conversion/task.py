@@ -12,4 +12,3 @@ print(int(123.3)+456) # la parte decimal es ignorada
 print(int("123.3")+456) # Genera un error
 
 print(int(float("123.3"))+456) # solucionando el error anterior
-
